@@ -1,0 +1,50 @@
+{
+  "rules": [
+    {
+      "entity": "User",
+      "alia": "User1",
+      "property": "id",
+      "type": "string",
+      "consy": "=",
+      "value": "372930"
+    },
+    {
+      "entity": "User",
+      "alia": "User2",
+      "property": "name",
+      "type": "string",
+      "consy": "in",
+      "value": [
+        "π˘≈Ù∑…",
+        "Œ‰≤ ∆Ω"
+      ]
+    }
+  ],
+  "rulesGroup": [
+    {
+      "rules": [
+        {
+          "entity": "User",
+          "alia": "User1",
+          "property": "id",
+          "type": "string",
+          "consy": "=",
+          "value": "372930"
+        },
+        {
+          "entity": "User",
+          "alia": "User2",
+          "property": "depant_num",
+          "type": "foreign",
+          "consy": "=",
+          "value": {
+            "entity": "User",
+            "alia": "User1",
+            "property": "id"
+          }
+        }
+      ],
+      "rulesGroup": []
+    }
+  ]
+}
