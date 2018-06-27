@@ -1,0 +1,240 @@
+[
+  {
+    "byte": [
+      {
+        "value": "=",
+        "text": "等于",
+        "inputType": "intInput",
+        "tip": "请输入一个字节"
+      },
+      {
+        "value": ">=",
+        "text": "大于等于",
+        "inputType": "intInput",
+        "tip": "请输入一个字节"
+      },
+      {
+        "value": "<=",
+        "text": "小于等于",
+        "inputType": "intInput",
+        "tip": "请输入一个字节"
+      },
+      {
+        "value": "!=",
+        "text": "不等于",
+        "inputType": "intInput",
+        "tip": "请输入一个字节"
+      }
+    ]
+  },
+  {
+    "short": [
+      {
+        "value": "=",
+        "text": "等于",
+        "inputType": "intInput",
+        "tip": "请输入一个short数据"
+      },
+      {
+        "value": ">=",
+        "text": "大于等于",
+        "inputType": "intInput",
+        "tip": "请输入一个short数据"
+      },
+      {
+        "value": "<=",
+        "text": "小于等于",
+        "inputType": "intInput",
+        "tip": "请输入一个short数据"
+      },
+      {
+        "value": "!=",
+        "text": "不等于",
+        "inputType": "intInput",
+        "tip": "请输入一个short数据"
+      }
+    ]
+  },
+  {
+    "int": [
+      {
+        "value": "=",
+        "text": "等于",
+        "inputType": "intInput",
+        "tip": "请输入一个整数"
+      },
+      {
+        "value": ">=",
+        "text": "大于等于",
+        "inputType": "intInput",
+        "tip": "请输入一个整数"
+      },
+      {
+        "value": "<=",
+        "text": "小于等于",
+        "inputType": "intInput",
+        "tip": "请输入一个整数"
+      },
+      {
+        "value": "!=",
+        "text": "不等于",
+        "inputType": "intInput",
+        "tip": "请输入一个整数"
+      }
+    ]
+  },
+  {
+    "float": [
+      {
+        "value": "=",
+        "text": "等于",
+        "inputType": "intInput",
+        "tip": "请输入一个小数"
+      },
+      {
+        "value": ">=",
+        "text": "大于等于",
+        "inputType": "intInput",
+        "tip": "请输入一个小数"
+      },
+      {
+        "value": "<=",
+        "text": "小于等于",
+        "inputType": "intInput",
+        "tip": "请输入一个小数"
+      },
+      {
+        "value": "!=",
+        "text": "不等于",
+        "inputType": "intInput",
+        "tip": "请输入一个小数"
+      }
+    ]
+  },
+  {
+    "double": [
+      {
+        "value": "=",
+        "text": "等于",
+        "inputType": "intInput",
+        "tip": "请输入一个小数"
+      },
+      {
+        "value": ">=",
+        "text": "大于等于",
+        "inputType": "intInput",
+        "tip": "请输入一个小数"
+      },
+      {
+        "value": "<=",
+        "text": "小于等于",
+        "inputType": "intInput",
+        "tip": "请输入一个小数"
+      },
+      {
+        "value": "!=",
+        "text": "不等于",
+        "inputType": "intInput",
+        "tip": "请输入一个小数"
+      }
+    ]
+  },
+  {
+    "date": [
+      {
+        "value": "=",
+        "text": "等于",
+        "inputType": "intInput",
+        "tip": "请选择日期"
+      },
+      {
+        "value": "!=",
+        "text": "不等于",
+        "inputType": "intInput",
+        "tip": "请选择日期"
+      },
+      {
+        "value": ">=",
+        "text": "大于等于",
+        "inputType": "intInput",
+        "tip": "请选择日期"
+      },
+      {
+        "value": "<=",
+        "text": "小于等于",
+        "inputType": "intInput",
+        "tip": "请选择日期"
+      }
+    ]
+  },
+  {
+    "timestamp": [
+      {
+        "value": "=",
+        "text": "等于",
+        "inputType": "intInput",
+        "tip": "请选择日期"
+      },
+      {
+        "value": "!=",
+        "text": "不等于",
+        "inputType": "intInput",
+        "tip": "请选择日期"
+      },
+      {
+        "value": ">=",
+        "text": "大于等于",
+        "inputType": "intInput",
+        "tip": "请选择日期"
+      },
+      {
+        "value": "<=",
+        "text": "小于等于",
+        "inputType": "intInput",
+        "tip": "请选择日期"
+      }
+    ]
+  },
+  {
+    "string": [
+      {
+        "value": "=",
+        "text": "等于",
+        "inputType": "intInput",
+        "tip": "请输入一个字符串"
+      },
+      {
+        "value": "!=",
+        "text": "不等于",
+        "inputType": "intInput",
+        "tip": "请输入一个字符串"
+      },
+      {
+        "value": "in",
+        "text": "包含",
+        "inputType": "intInput",
+        "tip": "请输入多个字符串，以英文逗号分割"
+      },
+      {
+        "value": "not in",
+        "text": "不包含",
+        "inputType": "intInput",
+        "tip": "请输入多个字符串，以英文逗号分割"
+      },
+      {
+        "value": " is null",
+        "text": "为空",
+        "inputType": "null"
+      }
+    ]
+  },
+  {
+    "foreign": [
+      {
+        "value": "=",
+        "text": "等于",
+        "inputType": "sourceData"
+      }
+    ]
+  }
+]
