@@ -1,0 +1,2 @@
+# queryBuilder
+queryBuilder for jquery 
