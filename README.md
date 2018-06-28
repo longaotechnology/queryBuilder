@@ -111,11 +111,4 @@ QueryBuilder 功能展示
 
 未经许可，如已经发现，将付诸法律；如有意用于商业项目，请与作者联系，谢谢。
 
-##代码展示
 
-```javascript
-  var ihubo = {
-    nickName  : "QueryBuilder",
-    site : "http://www.niubai.net.cn"
-  }
-```
