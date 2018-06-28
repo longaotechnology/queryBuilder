@@ -83,13 +83,13 @@ QueryBuilder 功能展示
 
 在添加 Issue 时，请务必对问题或建议添加详细的描述。提出的 Issue 标题应当简明扼要，Issue 内容正文应当详细具体，最好提供问题的截图和修改建议。
 
-欢迎通过[基于可视化复杂SQL拼接插件 QueryBuilder](http://my.oschina.net/guopengfei/blog/479886)来了解本项目原始开发逻辑，同时欢迎访问我的博客[博客](http://my.oschina.net/guopengfei)。
+欢迎通过[基于可视化复杂SQL拼接插件 QueryBuilder](http://my.oschina.net/guopengfei/blog/479886)来了解本项目原始开发逻辑，同时欢迎访问我的博客[博客](https://www.blog-china.cn)。
 
 欢迎加入我的QQ群进行技术交流:[QQ群链接](http://shang.qq.com/wpa/qunwpa?idkey=bda5b5a19dee571bad393db084f379e6eb2bdf068d2be05c0d511d857c03d654)
 
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
 
-* 邮件(guopengfeiheze@163.com)
+* 邮件(guopengfeiheze@blog-china.cn)
 * QQ: 825338623
 * QueryBuilder 官网: [@QueryBuilder](https://noworld.gitee.io/builderdynmic/)
 
