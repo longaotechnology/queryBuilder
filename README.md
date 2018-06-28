@@ -68,7 +68,7 @@ QueryBuilder 使用方法
 	
 QueryBuilder 功能展示
 --------------------
-请移步此处查看我们的演示平台：[查看演示](https://noworld.gitee.io/builderdynmic/)
+请移步此处查看我们的演示平台：[站点1](https://noworld.gitee.io/builderdynmic/)  [站点2](https://longaotechnology.github.io/queryBuilder/)
 ### 展示1：模板管理界面
 >![模板管理](http://static.oschina.net/uploads/space/2016/0518/152546_eo7k_2303434.png)
 
